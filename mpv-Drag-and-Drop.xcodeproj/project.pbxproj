@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		6529CDA720E9EF9300D84C16 /* Alert.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6529CDA620E9EF9300D84C16 /* Alert.swift */; };
-		6529CDAA20EA10C700D84C16 /* screenshot.png in Resources */ = {isa = PBXBuildFile; fileRef = 6529CDA920EA10C600D84C16 /* screenshot.png */; };
 		65D8EA8A20E9B93900C47475 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65D8EA8920E9B93900C47475 /* AppDelegate.swift */; };
 		65D8EA8C20E9B93900C47475 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65D8EA8B20E9B93900C47475 /* ViewController.swift */; };
 		65D8EA8E20E9B93A00C47475 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 65D8EA8D20E9B93A00C47475 /* Assets.xcassets */; };
@@ -19,8 +18,6 @@
 
 /* Begin PBXFileReference section */
 		6529CDA620E9EF9300D84C16 /* Alert.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Alert.swift; sourceTree = "<group>"; };
-		6529CDA820EA05A600D84C16 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
-		6529CDA920EA10C600D84C16 /* screenshot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot.png; sourceTree = "<group>"; };
 		65D8EA8620E9B93900C47475 /* mpv-Drag-and-Drop.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "mpv-Drag-and-Drop.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		65D8EA8920E9B93900C47475 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		65D8EA8B20E9B93900C47475 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -69,8 +66,6 @@
 				65EEBE5420E9D75A0040DF58 /* WindowController.swift */,
 				65D8EA8D20E9B93A00C47475 /* Assets.xcassets */,
 				65D8EA8F20E9B93A00C47475 /* Main.storyboard */,
-				6529CDA820EA05A600D84C16 /* README.md */,
-				6529CDA920EA10C600D84C16 /* screenshot.png */,
 			);
 			path = "mpv-Drag-and-Drop";
 			sourceTree = "<group>";
@@ -139,7 +134,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				65D8EA8E20E9B93A00C47475 /* Assets.xcassets in Resources */,
-				6529CDAA20EA10C700D84C16 /* screenshot.png in Resources */,
 				65D8EA9120E9B93A00C47475 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
