@@ -19,7 +19,7 @@ brew install --force-bottle ffmpeg --with-chromaprint --with-fdk-aac --with-font
 ```
 想要下载源码本地编译的话，自行去掉 `--force-bottle`
 
-## 安装mpv
+## 再安装mpv
 ``` shell
 brew install --force-bottle mpv --with-bundle --with-jack --with-libaacs --with-libarchive --with-libbluray --with-libcaca --with-libdvdnav --with-libdvdread --with-pulseaudio --with-rubberband --with-uchardet --with-vapoursynth
 ```
