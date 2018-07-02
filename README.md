@@ -30,15 +30,16 @@ brew install --force-bottle mpv --with-bundle --with-jack --with-libaacs --with-
 我使用的是 [Argon-mpv-config](https://github.com/Argon-/mpv-config)
 
 其中有的脚本只有空链接，需要自己下载。需要下载的脚本如下：
-[mpv-scripts](https://github.com/wm4/mpv-scripts)
-[mpv-repl](https://github.com/rossy/mpv-repl)
+[mpv-scripts](https://github.com/wm4/mpv-scripts) ，
+[mpv-repl](https://github.com/rossy/mpv-repl) ，
+[mpv-stats](https://github.com/Argon-/mpv-stats/releases) 。
 以上文件放到配置的scripts文件夹
-[FineSharp.glsl](https://gist.github.com/igv/a9a21ad1f6dd7d0b4452)
-[SSimDownscaler.glsl](https://gist.github.com/igv/36508af3ffc84410fe39761d6969be10)
-[SSimSuperRes.glsl](https://gist.github.com/igv/2364ffa6e81540f29cb7ab4c9bc05b6b)
-[adaptive-sharpen.glsl](https://gist.github.com/igv/8a77e4eb8276753b54bb94c1c50c317e)
+[FineSharp.glsl](https://gist.github.com/igv/a9a21ad1f6dd7d0b4452) ，
+[SSimDownscaler.glsl](https://gist.github.com/igv/36508af3ffc84410fe39761d6969be10) ，
+[SSimSuperRes.glsl](https://gist.github.com/igv/2364ffa6e81540f29cb7ab4c9bc05b6b) ，
+[adaptive-sharpen.glsl](https://gist.github.com/igv/8a77e4eb8276753b54bb94c1c50c317e) 。
 shaders放到配置的shaders文件夹
-[mpv-prescalers](https://github.com/bjin/mpv-prescalers/tree/master)
+[mpv-prescalers](https://github.com/bjin/mpv-prescalers/tree/master) ，
 prescalers的文件里，只需要nnedi3-nns32-win8x4.hook、nnedi3-nns64-win8x4.hook、ravu-lite-r3.hook、ravu-r3-rgb.hook、ravu-r3.hook
 
 ## 如果想卸载Homebrew
