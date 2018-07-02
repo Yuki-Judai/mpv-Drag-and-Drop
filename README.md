@@ -33,7 +33,8 @@ brew install --force-bottle mpv --with-bundle --with-jack --with-libaacs --with-
 [mpv-scripts](https://github.com/wm4/mpv-scripts) ，
 [mpv-repl](https://github.com/rossy/mpv-repl) ，
 [mpv-stats](https://github.com/Argon-/mpv-stats/releases) 。
-以上文件放到配置的scripts文件夹
+以上文件放到配置的scripts文件夹 。
+
 [FineSharp.glsl](https://gist.github.com/igv/a9a21ad1f6dd7d0b4452) ，
 [SSimDownscaler.glsl](https://gist.github.com/igv/36508af3ffc84410fe39761d6969be10) ，
 [SSimSuperRes.glsl](https://gist.github.com/igv/2364ffa6e81540f29cb7ab4c9bc05b6b) ，
