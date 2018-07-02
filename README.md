@@ -2,7 +2,7 @@
 使用Homebrew安装的mpv播放器默认没有图形界面入口，原来的生成链接的命令 `brew linkapps mpv` 被Homebrew废除。用了其它一些生成链接的方法也不成功。另外，也有说 `brew cask install` 的，但还是遇到问题。于是写了这个简单的小程序。`功能仅是拖拽文件到窗口，调用Homebrew已安装好的mpv。`有简单的检测已安装的最新版本的逻辑。可以看作是macOS Cocoa Drag and Drop的小例子。
 
 # 说明
-如果没有错误发生，文件拖到其界面调用mpv播放后。本程序会自动退出。
+需要macOS 10.13及以上系统。如果没有错误发生，文件拖到其界面调用mpv播放后。本程序会自动退出。
 ![](screenshot.png)
 图片来源：
 [優子さん～](https://www.pixiv.net/member_illust.php?mode=medium&illust_id=45314988)
