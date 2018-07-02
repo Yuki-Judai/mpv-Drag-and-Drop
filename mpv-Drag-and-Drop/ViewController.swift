@@ -47,10 +47,8 @@ extension ViewController : FileDragDelegate {
                     Alert(title: "错误", info: "文件路径错误").show()
                 }
             } catch {
-                Alert(title: "警告", info: "mpv播放器安装错误").show()
+                Alert(title: "警告", info: "您没有通过homebrew安装mpv播放器").show()
             }
-        } else {
-            Alert(title: "警告", info: "您没有通过homebrew安装mpv播放器").show()
         }
 
         NSApp.terminate(self)
