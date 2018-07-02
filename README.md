@@ -8,7 +8,7 @@
 [優子さん～](https://www.pixiv.net/member_illust.php?mode=medium&illust_id=45314988)
 
 # 确保已用Homebrew安装好mpv播放器
-以下是我使用的完全安装命令
+以下是我使用的完全安装命令：
 ## 安装Homebrew
 ``` shell
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
@@ -23,11 +23,11 @@ brew install --force-bottle ffmpeg --with-chromaprint --with-fdk-aac --with-font
 ``` shell
 brew install --force-bottle mpv --with-bundle --with-jack --with-libaacs --with-libarchive --with-libbluray --with-libcaca --with-libdvdnav --with-libdvdread --with-pulseaudio --with-rubberband --with-uchardet --with-vapoursynth
 ```
-想要下载源码本地编译的话同理
+想要下载源码本地编译的话同理。
 
 ## mpv 配置文件
-安装好后会运行第一次退出会生成 ~/.config/mpv
-我使用的是 [Argon-mpv-config](https://github.com/Argon-/mpv-config)
+安装好后会运行第一次退出会生成 ~/.config/mpv ，
+我使用的是 [Argon-mpv-config](https://github.com/Argon-/mpv-config) 。
 
 其中有的脚本只有空链接，需要自己下载。需要下载的脚本如下：
 [mpv-scripts](https://github.com/wm4/mpv-scripts) ，
