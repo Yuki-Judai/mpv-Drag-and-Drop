@@ -42,7 +42,7 @@ brew install --force-bottle mpv --with-bundle --with-jack --with-libaacs --with-
 以上文件放到配置的shaders文件夹 。
 
 [mpv-prescalers](https://github.com/bjin/mpv-prescalers/tree/master) ，
-prescalers的文件里，只需要nnedi3-nns32-win8x4.hook、nnedi3-nns64-win8x4.hook、ravu-lite-r3.hook、ravu-r3-rgb.hook、ravu-r3.hook
+prescalers的文件里，只需要nnedi3-nns32-win8x4.hook、nnedi3-nns64-win8x4.hook、ravu-lite-r3.hook、ravu-r3-rgb.hook、ravu-r3.hook ，也放到配置的shaders文件夹 。
 
 ## 如果想卸载Homebrew
 ``` shell
